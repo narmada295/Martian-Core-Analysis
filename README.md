@@ -5,6 +5,7 @@
 This project focuses on leveraging machine learning to model seismic wave propagation in Mars' interior. It involves generating synthetic seismic data, applying physics-based constraints, and detecting anomalies within seismic signals. 
 
 The project includes the following modules:
+
 **Module 6**: Preprocessing and analyzing seismic data for Mars.
 **Module 7**: Generating synthetic seismic data with anomalies, applying anomaly detection techniques, and evaluating model performance.
 **Module 8**: Using a PINN to model seismic wave propagation in Mars' crust and mantle, enforcing physical laws via wave equation residuals.
